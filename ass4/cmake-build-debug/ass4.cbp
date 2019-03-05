@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ass4"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ass4">
+				<Option output="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/ass4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 ass4"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ass4/fast">
+				<Option output="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/ass4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 ass4/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/ass4.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/classicmovie.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/classicmovie.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/comedymovie.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/comedymovie.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/customer.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/customer.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/customerlist.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/customerlist.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/dramamovie.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/dramamovie.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/history.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/history.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/movie.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/movie.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/moviefactory.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/moviefactory.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/movieinventory.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/movieinventory.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/movielist.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/movielist.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/store.cpp">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/store.h">
+			<Option target="ass4"/>
+		</Unit>
+		<Unit filename="/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

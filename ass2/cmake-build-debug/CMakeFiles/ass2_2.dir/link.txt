@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ass2_2.dir/ass2.cpp.o CMakeFiles/ass2_2.dir/binarysearchtree.cpp.o CMakeFiles/ass2_2.dir/binarynode.cpp.o  -o ass2_2 

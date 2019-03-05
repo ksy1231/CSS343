@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/ass2.cpp
+iostream
+-
+sstream
+-
+vector
+-
+climits
+-
+binarysearchtree.h
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarysearchtree.h
+binarynode.h
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarynode.h
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarynode.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarynode.h
+iostream
+-
+binarynode.cpp
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarynode.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarysearchtree.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarysearchtree.h
+binarynode.h
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarynode.h
+binarysearchtree.cpp
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass2/binarysearchtree.cpp
+

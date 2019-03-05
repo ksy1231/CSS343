@@ -1,0 +1,3 @@
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sooyunkim/Desktop/CSS343A/Assignments/ass4/cmake-build-debug/CMakeFiles/ass4.dir

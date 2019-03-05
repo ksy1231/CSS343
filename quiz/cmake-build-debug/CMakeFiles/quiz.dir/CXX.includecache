@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/binarynode.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/binarynode.h
+iostream
+-
+binarynode.cpp
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/binarynode.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bintree.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bintree.h
+binarynode.h
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/binarynode.h
+iostream
+-
+bintree.cpp
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bintree.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bst.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bst.h
+binarynode.h
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/binarynode.h
+iostream
+-
+bst.cpp
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bst.cpp
+
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/main.cpp
+iostream
+-
+bst.h
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bst.h
+bintree.h
+/Users/sooyunkim/Desktop/CSS343A/Assignments/quiz/bintree.h
+
