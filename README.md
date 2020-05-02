@@ -1,2 +1,2 @@
 # Data_Structure_II
-Developing competencies associated with problem-solving, algorithms, and computational models
+Develops competencies associated with problem-solving, algorithms, and computational models. Covers abstract data types and data structures, efficiency of algorithms, binary tree representations and traversals, searching, dictionaries, priority queues, hashing, directed graphs and graph algorithms, and language grammars.
